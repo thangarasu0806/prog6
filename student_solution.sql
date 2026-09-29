@@ -8,3 +8,5 @@ WHERE StudentID = 1002;
 SELECT * FROM Student;
 
 
+
+
